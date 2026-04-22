@@ -1,6 +1,4 @@
-# Supplementary Material
-
-This folder contains supplementary material to reproduce the experiments reported in the paper. The code supports linear and shallow nonlinear probing, permutation tests, and visualization of embedding geometry.
+The code supports linear and shallow nonlinear probing, permutation tests, and visualization of embedding geometry.
 
 ## Contents
 
