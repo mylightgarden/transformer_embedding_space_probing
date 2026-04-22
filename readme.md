@@ -3,15 +3,25 @@ The code supports linear and shallow nonlinear probing, permutation tests, and v
 ## Contents
 
 supplementary/
+
 ├── README.md
+
 ├── 1_get_sentences_embeddings.py
+
 ├── 2_UMAP_visualization.py
+
 ├── 3_probing_and_confusion_matrix.py
+
 ├── 4_permutation_test.py
+
 ├── masked_dataset_with_tiers_scores.csv
+
 ├── sentence_embeddings_BAAI_bge_large_en_v1_5.npy
+
 ├── sentence_embeddings_sentence_transformers_all_MiniLM_L6_v2.npy
+
 └── sentence_embeddings_sentence_transformers_all_mpnet_base_v2.npy
+
 
 ## Data and privacy
 The original sentence text is masked to avoid redistribution of sensitive content. The provided CSV file contains only tier labels and continuous energy scores. No raw sentence text is included.
